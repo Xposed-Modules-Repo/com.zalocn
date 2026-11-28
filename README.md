@@ -18,6 +18,14 @@
 
 ---
 
+## 🆕 v3.0.11：源码已同步（消息翻译稳定性重构 + 多语言）
+
+主仓库 [guoxpeng/zalo-cn](https://github.com/guoxpeng/zalo-cn) 已发布 v3.0.11：译文改用 Zalo 原生译文槽（原文/译文分框显示）、补扫覆盖未 bind 的会话、点击消息重翻、11 种目标语言全部可用、速度与稳定性优化、设置面板暗色模式。完整说明见主仓库 [RELEASE_NOTES_v3.0.11.md](https://github.com/guoxpeng/zalo-cn/blob/main/RELEASE_NOTES_v3.0.11.md)。
+
+> 本仓库为分发镜像，跟随主仓库同步源码与安装包；装完记得强制停止 Zalo 再重开。
+
+---
+
 ## 🎉 v3.0.0：消息也能翻了，不只是界面汉化
 
 以前这个模块只做一件事：把 Zalo 界面翻成中文。现在它能帮你跟越南人聊天：
